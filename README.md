@@ -85,7 +85,8 @@ endmodule
 ![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/8f766763-bf8c-4ab0-b0a8-c6810331bd19)
 
 ## TRUTH TABLE:
-![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/67e3402d-a503-461b-83eb-1fe0c45fcdb8)
+![Screenshot 2023-12-27 160256](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/09c8d109-9e3e-46c4-b66d-6df6cad40d26)
+
 
 ## TIMING DIAGRAM:
 ![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/0b3f9c7c-1fe6-46f5-80d9-4a9de742997f)
