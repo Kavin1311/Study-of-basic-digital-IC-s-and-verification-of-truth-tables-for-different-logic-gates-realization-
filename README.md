@@ -83,15 +83,17 @@ xnor(y7,a,b);
 
 endmodule
 ```
-## RTL realization:
-![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/8f766763-bf8c-4ab0-b0a8-c6810331bd19)
+## OUTPUT 
 
 ## TRUTH TABLE:
-![Screenshot 2023-12-27 160256](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/09c8d109-9e3e-46c4-b66d-6df6cad40d26)
+![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/fc47f378-b1d8-45d4-bf85-c13c59b02f2e)
 
+## RTL REALISATION
+![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/9df86227-6c31-42b8-bd3f-82ef992a0f81)
 
 ## TIMING DIAGRAM:
-![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/0b3f9c7c-1fe6-46f5-80d9-4a9de742997f)
+![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/edda79bb-5ea9-4db3-aa91-ae8ae19f1ee3)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
