@@ -1,4 +1,4 @@
-## NAME : T.KAVINAJAI
+## NAME : KAVINAJAI.T
 ## REGISTER NUMBER : 212223100020
 # EXP-01- Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 ## AIM:
