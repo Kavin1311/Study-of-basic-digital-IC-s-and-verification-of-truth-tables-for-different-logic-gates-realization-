@@ -85,12 +85,12 @@ xnor(y7,a,b);
 
 endmodule
 ```
-## OUTPUT 
+## OUTPUT: 
 
 ## TRUTH TABLE:
 ![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/fc47f378-b1d8-45d4-bf85-c13c59b02f2e)
 
-## RTL REALISATION
+## RTL REALIZATION:
 ![image](https://github.com/Kavin1311/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145695724/9df86227-6c31-42b8-bd3f-82ef992a0f81)
 
 ## TIMING DIAGRAM:
